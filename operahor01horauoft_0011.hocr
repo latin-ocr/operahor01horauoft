@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operahor01horauoft_0011.png"; bbox 0 0 1578 3126; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 74 582 1398 1738">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 74 582 1398 1738">
+     <span class='ocr_line' id='line_1_1' title="bbox 74 582 1398 1738; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 74 582 1398 1738; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 9 2328 1265 2751">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 9 2328 1265 2751">
+     <span class='ocr_line' id='line_1_2' title="bbox 59 2328 1265 2427; baseline -0.003 -20"><span class='ocrx_word' id='word_1_2' title='bbox 59 2328 571 2416; x_wconf 70' lang='lat' dir='ltr'>Duras-labores</span> <span class='ocrx_word' id='word_1_3' title='bbox 604 2342 818 2404; x_wconf 79' lang='lat' dir='ltr'>Martis</span> <span class='ocrx_word' id='word_1_4' title='bbox 850 2357 910 2404; x_wconf 81' lang='lat' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_5' title='bbox 940 2338 1188 2427; x_wconf 27' lang='lat' dir='ltr'>&#39;asperae</span> <span class='ocrx_word' id='word_1_6' title='bbox 1260 2387 1265 2390; x_wconf 60' lang='grc'><em>»</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 9 2452 1250 2539; baseline -0.003 -21"><span class='ocrx_word' id='word_1_7' title='bbox 9 2484 16 2505; x_wconf 49' lang='grc' dir='ltr'><strong>ἰ</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 59 2455 313 2518; x_wconf 82' lang='lat' dir='ltr'>Virtutis</span> <span class='ocrx_word' id='word_1_9' title='bbox 350 2452 545 2513; x_wconf 75' lang='lat' dir='ltr'>oestro</span> <span class='ocrx_word' id='word_1_10' title='bbox 581 2454 1002 2539; x_wconf 75' lang='lat' dir='ltr'>praetrepidos</span> <span class='ocrx_word' id='word_1_11' title='bbox 1045 2452 1250 2529; x_wconf 79' lang='lat' dir='ltr'><strong>duces,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 139 2562 1134 2646; baseline -0.002 -21"><span class='ocrx_word' id='word_1_12' title='bbox 139 2567 319 2644; x_wconf 83' lang='lat' dir='ltr'>Quos</span> <span class='ocrx_word' id='word_1_13' title='bbox 359 2563 586 2624; x_wconf 79' lang='lat' dir='ltr'>blanda</span> <span class='ocrx_word' id='word_1_14' title='bbox 619 2562 925 2626; x_wconf 78' lang='lat' dir='ltr'>nascentes</span> <span class='ocrx_word' id='word_1_15' title='bbox 961 2567 1134 2646; x_wconf 68' lang='lat' dir='ltr'><strong>Enyo</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 188 2653 1222 2751; baseline -0.001 -16"><span class='ocrx_word' id='word_1_16' title='bbox 188 2653 492 2751; x_wconf 73' lang='lat' dir='ltr'>Sustulit,</span> <span class='ocrx_word' id='word_1_17' title='bbox 526 2673 897 2738; x_wconf 80' lang='lat' dir='ltr'>indomitum</span> <span class='ocrx_word' id='word_1_18' title='bbox 929 2675 1222 2750; x_wconf 78' lang='lat' dir='ltr'>Melanta‚</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
